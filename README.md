@@ -70,7 +70,7 @@ Este documento descreve as mensagens de erro retornadas pela API do Caixa Eletr�
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/sudanvannin/caixa-eletronico-api.git
+   git clone https://github.com/sudanvannin/CaixaEletronicoAPI-Morada.ai.git
    cd caixa-eletronico-api
 2. **Instale as dependências:
    ```bash
