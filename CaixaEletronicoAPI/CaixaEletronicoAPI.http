@@ -1,0 +1,6 @@
+@CaixaEletronicoAPI_HostAddress = http://localhost:5197
+
+GET {{CaixaEletronicoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
